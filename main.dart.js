@@ -57256,7 +57256,7 @@ $S:0}
 X.X1.prototype={
 $0:function(){var s=this.a,r=s.c.k4
 r=r.gk(r)?C.o:C.k
-return M.t1(null,"images/relatorioJW.png",new X.WX(s),new X.WY(s),"Download App",r,"Relat\xf3rio JW")},
+return M.t1(null,"images/relatoriojw.png",new X.WX(s),new X.WY(s),"Download App",r,"Relat\xf3rio JW")},
 $C:"$0",
 $R:0,
 $S:32}
@@ -57304,7 +57304,7 @@ $S:0}
 O.WT.prototype={
 $0:function(){var s=this.a,r=s.c.k4,q=r.gk(r)?C.A:C.a1
 r=r.gk(r)?C.o:C.k
-return M.t1(q,"images/relatorioJW.png",new O.WO(s),new O.WP(s),"Download App",r,"Relat\xf3rio JW")},
+return M.t1(q,"images/relatoriojw.png",new O.WO(s),new O.WP(s),"Download App",r,"Relat\xf3rio JW")},
 $C:"$0",
 $R:0,
 $S:32}
